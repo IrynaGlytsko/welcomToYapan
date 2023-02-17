@@ -22,4 +22,3 @@
         menu.classList.remove('header__nav_active');
     });
 }());
-
